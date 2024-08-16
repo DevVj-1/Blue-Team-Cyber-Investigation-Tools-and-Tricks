@@ -1,6 +1,11 @@
 # Blue 🧿 Team Cyber Investigation Tricks and Tools 
 Welcome to the Blue Team Cyber Investigation Tricks and Tools repository! This collection of resources is designed to aid cybersecurity professionals in defending and securing their networks. Whether you're a seasoned analyst or just getting started, you'll find valuable tools, techniques, and best practices here to enhance your blue team efforts.
 
+<div align="center">
+
+![3](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ4aHNoajhjZzV1a2E5YncyNGdlMzlzemprZnU2MXhoOWpsZ2dodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuvVSsKz2fQRuo/giphy.gif)
+</div> 
+
 ## Helpful Online Tools and Websites
 
 ### Sandbox Tools 💠
@@ -46,6 +51,11 @@ Investigating suspicious email addresses involves several steps, from verifying 
 These tools and techniques will help you analyze and investigate suspicious elements in your cybersecurity work.
 
 ## ☄️ Checklist for Handling a Suspicious Phishing Email and Attached Files ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
+
+<div align="center">
+
+![3](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTEyN3M5dGJzamMxanZrOXpqOTVlNW5penRnaTNiajk5MnoxcmowNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26wAdRgBEvr3A48AE/giphy.gif)
+</div> 
 
 ### 1. Do Not Interact with the Email
 - **Do Not Click**: Avoid clicking any links, downloading attachments, or replying to the email.
