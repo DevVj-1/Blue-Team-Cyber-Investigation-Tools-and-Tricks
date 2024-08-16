@@ -1,0 +1,42 @@
+## Checklist for Handling a Suspicious Phishing Email and Attached Files
+
+### 1. Do Not Interact with the Email
+- **Do Not Click**: Avoid clicking any links, downloading attachments, or replying to the email.
+- **Do Not Enable**: If the email prompts you to enable macros or content, do not enable them.
+
+### 2. Verify the Sender
+- **Check Email Address**: Verify the sender's email address by hovering over it. Look for misspellings or unusual domains.
+- **Use Email Verification Tools**: Use tools like [Hunter.io](https://hunter.io) or [EmailRep](https://emailrep.io) to check the legitimacy and reputation of the email address.
+- **Inspect Headers**: Analyze the email headers to identify any anomalies in the sender's information.
+
+### 3. Analyze the Email Content
+- **Look for Red Flags**: Check for signs of phishing, such as poor grammar, urgent language, or requests for personal information.
+- **Compare to Legitimate Emails**: If the email claims to be from a known organization, compare it to previous legitimate emails from that organization.
+
+### 4. Scan the Attached Files
+- **Use Online Sandboxes**: Upload the attachment to online sandboxes like [ANY.RUN](https://any.run), [Hybrid Analysis](https://www.hybrid-analysis.com), or [VirusTotal](https://www.virustotal.com) to analyze the file's behavior.
+- **Scan with Antivirus**: Run the file through your local antivirus software to detect any known malware.
+
+### 5. Investigate Any URLs
+- **Check URL Reputation**: Use tools like [URLVoid](https://www.urlvoid.com) or [VirusTotal](https://www.virustotal.com) to check the reputation of any URLs in the email.
+- **Inspect URLs Carefully**: Hover over any links to inspect the full URL. Be cautious of shortened URLs or those with unusual domains.
+
+### 6. Report the Email
+- **Internal Reporting**: Follow your organization's procedure for reporting phishing emails. This could involve forwarding the email to your IT or security team.
+- **External Reporting**: Report the phishing attempt to relevant authorities or services like [PhishTank](https://www.phishtank.com).
+
+### 7. Quarantine the Email
+- **Move to Spam/Junk**: If confirmed as phishing, move the email to your spam or junk folder.
+- **Block the Sender**: Block the sender's email address to prevent future phishing attempts from the same source.
+
+### 8. Document the Incident
+- **Record Details**: Document all details of the phishing attempt, including the sender's address, email content, attached files, and any analysis results.
+- **Share Findings**: Share your findings with your team or community to help others recognize similar threats.
+
+### 9. Monitor for Impact
+- **Check for Signs of Compromise**: After handling the phishing attempt, monitor your systems for any unusual activity that may indicate a compromise.
+- **Update Security Measures**: If necessary, update your security measures, such as email filters, to prevent similar attacks in the future.
+
+### 10. Educate and Train
+- **Awareness Training**: Educate others in your organization about phishing threats and how to recognize and respond to them.
+- **Simulate Phishing Attacks**: Conduct phishing simulations to test and improve your organization's readiness to handle such threats.
