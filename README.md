@@ -11,7 +11,7 @@ Welcome to the Blue Team Cyber Investigation Tricks and Tools repository! This c
 ### Sandbox Tools 💠
 
 - **[ANY.RUN](https://any.run)**: An interactive online malware sandbox for dynamic analysis of suspicious files.
-- **[Cuckoo Sandbox](https://cuckoosandbox.org)**: An open-source automated malware analysis system.
+- **[Cuckoo Sandbox](https://cuckoosandbox.org)**: An open-source automated malware analysis system. ⭐
 - **[Hybrid Analysis](https://www.hybrid-analysis.com)**: A free malware analysis service powered by Falcon Sandbox.
 - **[Joe Sandbox](https://www.joesandbox.com)**: Advanced analysis of files, URLs, emails, and other types of data.
 - **[VirusTotal](https://www.virustotal.com)**: Aggregates many antivirus products and online scan engines to check files and URLs for viruses.
@@ -30,7 +30,7 @@ Welcome to the Blue Team Cyber Investigation Tricks and Tools repository! This c
 - **[MXToolbox](https://mxtoolbox.com)**: Provides DNS lookups, blacklist checking, and other useful tools for investigating domains and IPs.
 - **[MetaDefender](https://metadefender.opswat.com)**: Scans files, URLs, and IPs with multiple antivirus engines and provides vulnerability assessments.
 - **[AbuseIPDB](https://www.abuseipdb.com)**: A database of IP addresses reported for abusive activities, with tools for checking and reporting IPs.
-- **[VirusTotal](https://www.virustotal.com)**: In addition to file scanning, VirusTotal also allows for IP, domain, and URL analysis to detect malicious activity.
+- **[VirusTotal](https://www.virustotal.com)**: In addition to file scanning, VirusTotal also allows for IP, domain, and URL analysis to detect malicious activity. 
 - **[ThreatMiner](https://www.threatminer.org)**: A threat intelligence platform that provides context on domains, IPs, and indicators of compromise (IOCs).
 
 ### Other Useful Tools 🫧
