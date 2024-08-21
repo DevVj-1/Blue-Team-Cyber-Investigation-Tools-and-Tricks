@@ -36,6 +36,7 @@ Welcome to the Blue Team Cyber Investigation Tricks and Tools repository! This c
 ### Other Useful Tools 🫧
 
 - **[Shodan](https://www.shodan.io)**: The search engine for Internet-connected devices, useful for finding exposed systems and identifying vulnerabilities.
+- **[Koodous](https://koodous.com/)**: 
 - **[Censys](https://censys.io)**: Another search engine for finding devices and websites exposed to the internet, including services running on them.
 - **[GreyNoise](https://www.greynoise.io)**: Helps distinguish between harmless background noise and targeted attacks by analyzing internet-wide scan traffic.
 
