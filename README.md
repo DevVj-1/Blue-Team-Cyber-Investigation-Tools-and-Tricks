@@ -99,3 +99,6 @@ These tools and techniques will help you analyze and investigate suspicious elem
 - **Awareness Training**: Educate others in your organization about phishing threats and how to recognize and respond to them.
 - **Simulate Phishing Attacks**: Conduct phishing simulations to test and improve your organization's readiness to handle such threats.
 
+## Forensic Imaging
+
+* https://tryhackme.com/r/room/forensicimaging
