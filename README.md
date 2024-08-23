@@ -99,6 +99,14 @@ These tools and techniques will help you analyze and investigate suspicious elem
 - **Awareness Training**: Educate others in your organization about phishing threats and how to recognize and respond to them.
 - **Simulate Phishing Attacks**: Conduct phishing simulations to test and improve your organization's readiness to handle such threats.
 
-## Forensic Imaging
+#  🎣 PhishTool, that you would add to your toolkit of email analysis tools 🐬 
+PhishTool seeks to elevate the perception of phishing as a severe form of attack and provide a responsive means of email security. Through email analysis, security analysts can uncover email IOCs, prevent breaches and provide forensic reports that could be used in phishing containment and training engagements.
+
+PhishTool has two accessible versions: Community and Enterprise. We shall mainly focus on the Community version and the core features in this task. Sign up for an account via this link to use the tool.
+
+![03364f3a4fb2177cce13abc3b181bca9](https://github.com/user-attachments/assets/bf9663a4-de12-4ed7-b2d8-b0c838789877)
+https://www.phishtool.com/
+
+## Forensic Imaging 🪝
 
 * https://tryhackme.com/r/room/forensicimaging
