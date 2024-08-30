@@ -10,6 +10,9 @@ Welcome to the Blue Team Cyber Investigation Tricks and Tools repository! This c
 
 ### Sandbox Tools 💠
 
+![any_run4_Forensics](https://github.com/user-attachments/assets/0c930236-48cf-4447-ae24-223475433d6f)
+
+
 - **[ANY.RUN](https://any.run)**: An interactive online malware sandbox for dynamic analysis of suspicious files.
 - **[Cuckoo Sandbox](https://cuckoosandbox.org)**: An open-source automated malware analysis system. ⭐
 - **[Hybrid Analysis](https://www.hybrid-analysis.com)**: A free malware analysis service powered by Falcon Sandbox.
