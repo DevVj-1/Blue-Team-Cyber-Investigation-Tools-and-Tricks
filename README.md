@@ -14,7 +14,7 @@ Welcome to the Blue Team Cyber Investigation Tricks and Tools repository! This c
 
 
 - **[ANY.RUN](https://any.run)**: An interactive online malware sandbox for dynamic analysis of suspicious files.
-- **[Cuckoo Sandbox](https://cuckoosandbox.org)**: An open-source automated malware analysis system. ⭐
+- **[Cuckoo Sandbox](https://cuckoo.cert.ee/)**: An open-source automated malware analysis system. ⭐
 - **[Hybrid Analysis](https://www.hybrid-analysis.com)**: A free malware analysis service powered by Falcon Sandbox.
 - **[Joe Sandbox](https://www.joesandbox.com)**: Advanced analysis of files, URLs, emails, and other types of data.
 - **[VirusTotal](https://www.virustotal.com)**: Aggregates many antivirus products and online scan engines to check files and URLs for viruses.
