@@ -113,3 +113,8 @@ https://www.phishtool.com/
 ## Forensic Imaging 🪝
 
 * https://tryhackme.com/r/room/forensicimaging
+
+## Steganography 
+
+Aperi'Solve is an online platform which performs layer analysis on image. The platform also uses zsteg, steghide,  outguess, exiftool, binwalk, foremost and strings for deeper steganography analysis.
+* https://www.aperisolve.com/
