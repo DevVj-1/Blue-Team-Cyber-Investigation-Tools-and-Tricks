@@ -118,3 +118,13 @@ https://www.phishtool.com/
 
 Aperi'Solve is an online platform which performs layer analysis on image. The platform also uses zsteg, steghide,  outguess, exiftool, binwalk, foremost and strings for deeper steganography analysis.
 * https://www.aperisolve.com/
+
+# Dynamic Analysis
+
+URLs and files in an email need to be checked to make sure they are safe : 
+![Screen-Shot-2020-08-22-at-10 52 32-1024x498](https://github.com/user-attachments/assets/a3e83251-11e2-42a2-98a8-d6f1ca21dfc6)
+You can use online web browsers such as Browserling to quickly check the web addresses in the email. The advantage of such services is that you are not burdened by a possible zero-day vulnerability that would impact browsers, as you are not visiting the website on your own computer. 
+
+![Screen-Shot-2020-08-22-at-10 48 01](https://github.com/user-attachments/assets/a8ccb798-3e58-4a05-a9b8-e7c932137e81)
+
+Before going to the links in the email, you should check if there is any important information in the URL. If we examine the example in the image above, and the user's email address in the email parameter. So even if the user does not enter their password on the phishing page, when they click on popularshoppingsite[.]com and visit the website, the attacker will know that this user is valid. The attacker can increase the success rate of the attack by social engineering the valid users in later attacks. Therefore, it is important to change information such as email addresses before accessing websites.
