@@ -6,6 +6,9 @@ Welcome to the Blue Team Cyber Investigation Tricks and Tools repository! This c
 ![3](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ4aHNoajhjZzV1a2E5YncyNGdlMzlzemprZnU2MXhoOWpsZ2dodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuvVSsKz2fQRuo/giphy.gif)
 </div> 
 
+## SOC Analyst Learning Path by LetsDefend (About Learning!):
+https://app.letsdefend.io/path/soc-analyst-learning-path
+
 ## Helpful Online Tools and Websites
 
 ### Sandbox Tools 💠
