@@ -137,3 +137,16 @@ VirusTotal
 **[URLScan](https://urlhaus.abuse.ch/verify-ua/)**
 HybridAnalysis
 **[URLHouse](https://urlhaus.abuse.ch/verify-ua/)**
+
+
+![Screenshot 2025-01-11 184240](https://github.com/user-attachments/assets/ead23cf3-f1d8-4fc5-925a-ff9d65744bad)
+
+
+### SOCRadar link: https://socradar.io/labs/dark-web-report/
+
+SOCRadar.io is a comprehensive cybersecurity platform that combines threat intelligence, attack surface management (EASM), and digital risk protection (DRP) to help organizations identify, assess, and mitigate cyber threats proactively. It offers real-time insights, monitors dark web activities, detects vulnerabilities, and tracks brand-related risks like phishing or data leaks.
+
+### Use Cases:
+* Phishing Detection: Identifies spoofed domains or impersonation attempts.
+* Data Breach Monitoring: Tracks leaked credentials or sensitive information online.
+* Vulnerability Management: Monitors emerging threats and exploits targeting the organization.
