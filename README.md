@@ -150,3 +150,10 @@ SOCRadar.io is a comprehensive cybersecurity platform that combines threat intel
 * Phishing Detection: Identifies spoofed domains or impersonation attempts.
 * Data Breach Monitoring: Tracks leaked credentials or sensitive information online.
 * Vulnerability Management: Monitors emerging threats and exploits targeting the organization.
+
+
+
+## Code-Breaking, Cipher and Logic Puzzles Solving Tools
+Free tools and resources helping you solve CTFs, ciphers, logic puzzles and room escape games.
+
+https://www.boxentriq.com/
