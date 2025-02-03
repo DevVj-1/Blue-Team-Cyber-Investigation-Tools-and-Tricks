@@ -157,3 +157,8 @@ SOCRadar.io is a comprehensive cybersecurity platform that combines threat intel
 Free tools and resources helping you solve CTFs, ciphers, logic puzzles and room escape games.
 
 https://www.boxentriq.com/
+
+## Spectrum Analyzer
+This audio spectrum analyzer enables you to see the frequencies present in audio recordings.
+
+Audio Analyzer :- https://academo.org/demos/spectrum-analyzer/
