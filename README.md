@@ -158,6 +158,10 @@ Free tools and resources helping you solve CTFs, ciphers, logic puzzles and room
 
 https://www.boxentriq.com/
 
+## photo-forensics
+
+https://29a.ch/photo-forensics/#forensic-magnifier
+
 ## Spectrum Analyzer
 This audio spectrum analyzer enables you to see the frequencies present in audio recordings.
 
