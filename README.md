@@ -22,6 +22,9 @@ https://app.letsdefend.io/path/soc-analyst-learning-path
 - **[Joe Sandbox](https://www.joesandbox.com)**: Advanced analysis of files, URLs, emails, and other types of data.
 - **[VirusTotal](https://www.virustotal.com)**: Aggregates many antivirus products and online scan engines to check files and URLs for viruses.
 
+  ![1742973929418](https://github.com/user-attachments/assets/c10bb448-99eb-400f-925a-08d2ac2b92c2)
+
+
 ### Email Investigation Tools 🎐
 
 - **[EmailRep](https://emailrep.io)**: A service to query and understand the reputation and associations of an email address.
