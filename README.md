@@ -178,3 +178,9 @@ Audio Analyzer :- https://academo.org/demos/spectrum-analyzer/
 OnWorks Website provides multiples Opeative systems to start up for free.
 
 Free cloud OS: https://www.onworks.net/
+
+# Blue team labs (Microsoft Sentine SIEM,XDR )
+
+![image](https://github.com/user-attachments/assets/65ea853e-11f4-47a4-8ccf-e08fa0c84b1f)
+
+Link: https://kc7cyber.com/modules
